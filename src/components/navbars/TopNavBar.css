@@ -1,0 +1,9 @@
+.icon {
+    color: gray;
+    padding-right: 3%;
+    cursor: pointer;
+}
+
+.icon:hover {
+    color: lightgray;
+}
