@@ -1,0 +1,29 @@
+.form-label {
+    text-align: left;
+}
+
+hr {
+    color: white;
+}
+
+#add-stream-button {
+    color: white;
+    cursor: pointer;
+}
+
+#add-stream-button:hover {
+    color: lightgray;
+}
+
+p {
+    overflow-wrap: break-word;
+}
+
+textarea {
+    white-space: pre-line;
+}
+
+#added-stream-toast {
+    margin-left: auto;
+    margin-right: 0;
+}
